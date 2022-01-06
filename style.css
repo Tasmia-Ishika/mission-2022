@@ -91,3 +91,16 @@ h2{
     width: 50%;
     padding-left: 5%;
 }
+.footer-background{
+    margin-top: 40px;
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 20px 0;
+}
+#red{
+    color: red;
+}
+.text h3{
+    font-family: 'The Nautigal', cursive;
+}
